@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+    color: red;
+}
+h1{
+    background-color: brown;
+    color: whitesmoke;
+}
+body{
+    background-color:rgb(250, 231, 215);
+}
+h2{
+    color:rgb(193, 127, 255);
+}
+hr{
+    height: 2px;
+    background-color: green;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+.pon15{
+    color: black;
+    border: 5px solid red;
+}
